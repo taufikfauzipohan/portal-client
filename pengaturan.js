@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "FROM.SONNARI",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyBEN409Rg0M2j4l7wXLnmqsvpyCBXb9Gyo"
 };
